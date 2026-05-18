@@ -20,8 +20,3 @@ The project is executed in two comprehensive phases:
 ## Dataset Reference
 The pipeline utilizes the official **Credit Card Fraud Detection Dataset** (284,807 transactions, PCA-transformed features).  
 * **Source:** [Kaggle Dataset Repository](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-
-## How to Run on Colab
-1. Click the **Open In Colab** badge at the top of this page.
-2. Ensure you add your Google Gemini API Key to the environment or enter it when prompted by the runtime interface to enable the Explainability Layer.
-3. Run all cells sequentially to observe the distributed processing pipeline and the generated AI advisory reports.
